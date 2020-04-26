@@ -1,4 +1,4 @@
-# SWSG2020-MakeBiggerThingsHappen
+# Startup Weekend Singapore SWSG2020-MakeBiggerThingsHappen
 
 With the current Covid-19 situation, we’re left with a lot of uncertainty around us. The closure of economic activities pushed the majority of the human population to suffer from their sudden loss of steady income. Though some of us are lucky enough to see it through, there are still many of them struggling to meet their basic daily needs. 
 
